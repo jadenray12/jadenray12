@@ -4,7 +4,7 @@ I am a Computer Science student studying at North Carolina State University. My 
 
 
 ## Find me around the web 🌎
-- LinkedIn <a href="linkedin.com/in/jaden-ray-503714293">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- LinkedIn <a href="https://www.linkedin.com/in/jaden-ray-503714293">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 <!---
