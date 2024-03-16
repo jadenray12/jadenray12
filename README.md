@@ -4,9 +4,7 @@ I am a Computer Science student studying at North Carolina State University. My 
 
 
 ## Find me around the web 🌎
-- <a href="https://www.linkedin.com/in/jaden-ray-503714293">LinkedIn</a>  📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/jaden-ray-503714293">LinkedIn</a> 💼
 <!---
 jadenray12/jadenray12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
