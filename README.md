@@ -1,6 +1,6 @@
-# Hi, I'm Jaden 👋🏾 👩🏾‍💻
+# Hi, I'm Jaden 👋🏾 
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+I am a Computer Science student studying at North Carolina State University. My main goal right now is to create various projects to learn all about the programming world and make use of all the tools around me. Some technologies I enjoy working with include Java, Python, and SQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
 ## Find me around the web 🌎
